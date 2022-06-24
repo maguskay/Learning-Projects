@@ -1,2 +1,3 @@
 # Learning-Projects
-Smaller projects
+
+https://github.com/maguskay/Learning-Projects/blob/main/index.html
